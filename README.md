@@ -16,7 +16,7 @@
 
 Тип процессора | Ссылка для скачивания
 --- | ---
-Любой процессор | [Скачать]https://github.com/TheMixaDev/FormulaCalculator/releases/download/v2/FormulaCalculator-anycpu.zip)
+Любой процессор | [Скачать](https://github.com/TheMixaDev/FormulaCalculator/releases/download/v2/FormulaCalculator-anycpu.zip)
 x64 | [Скачать](https://github.com/TheMixaDev/FormulaCalculator/releases/download/v2/FormulaCalculator-x64.zip)
 x86 | [Скачать](https://github.com/TheMixaDev/FormulaCalculator/releases/download/v2/FormulaCalculator-x86.zip)
 ARM64 | [Скачать](https://github.com/TheMixaDev/FormulaCalculator/releases/download/v2/FormulaCalculator-arm64.zip)
