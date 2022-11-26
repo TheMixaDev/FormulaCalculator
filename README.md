@@ -1,5 +1,5 @@
 # FormulaCalculator
-Программа для вычисления формул Бернулли, Байеса и полной вероятности.
+Программа для вычисления формул Бернулли и Байеса.
 
 # О программе
 Программа для проведения вычислений написана в качестве веб-страницы с использованием языка программирования JavaScript без использования дополнительных инструментов.
@@ -16,10 +16,10 @@
 
 Тип процессора | Ссылка для скачивания
 --- | ---
-Любой процессор | [Скачать](https://github.com/TheMixaDev/FormulaCalculator/releases/download/Release/FormulaCalculator-anycpu.zip)
-x64 | [Скачать](https://github.com/TheMixaDev/FormulaCalculator/releases/download/Release/FormulaCalculator-x64.zip)
-x86 | [Скачать](https://github.com/TheMixaDev/FormulaCalculator/releases/download/Release/FormulaCalculator-x86.zip)
-ARM64 | [Скачать](https://github.com/TheMixaDev/FormulaCalculator/releases/download/Release/FormulaCalculator-arm64.zip)
+Любой процессор | [Скачать]https://github.com/TheMixaDev/FormulaCalculator/releases/download/v2/FormulaCalculator-anycpu.zip)
+x64 | [Скачать](https://github.com/TheMixaDev/FormulaCalculator/releases/download/v2/FormulaCalculator-x64.zip)
+x86 | [Скачать](https://github.com/TheMixaDev/FormulaCalculator/releases/download/v2/FormulaCalculator-x86.zip)
+ARM64 | [Скачать](https://github.com/TheMixaDev/FormulaCalculator/releases/download/v2/FormulaCalculator-arm64.zip)
 
 Для запуска порта необходимо разархивировать скачанный .zip файл, и открыть `Calculator.exe`, требуется установленный [пакет Microsoft Visual Studio C++](https://learn.microsoft.com/ru-ru/cpp/windows/latest-supported-vc-redist?view=msvc-170) минимум 2015 года.
 
